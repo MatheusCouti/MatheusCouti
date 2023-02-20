@@ -1,16 +1,22 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=180&section=header&text&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/MatheusCouti/71efa44ecd292064fb1fa7651f388562/raw/02180043026d97633f917c96935059ce8df3b09c/githubcard.svg"/>
+<h1 align="left">Hi 👋 <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Matheus Coutinho</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEEB&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Matheus+Coutinho+Escudeiro;I'm+27+years+old;I+from+Brasil,+PR;I+study+Analysis+and+systems+development+at+Unifamma;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<div align="center">
+<br><p align="left"><b>Visitors Count</b></p>  
+<p align="left"><img align="center" src="https://profile-counter.glitch.me/{MatheusCouti}/count.svg" /></p> 
+<br></div>
 
-<div align="center">  
+
+<div align="left">  
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCouti&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-<p align="center">
+
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=MatheusCouti&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-<div align="center">  
+<div align="left">  
 <a href="https://www.instagram.com/coutinhoescudeiro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://www.linkedin.com/in/matheus-coutinho-escudeiro-38a262211" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
@@ -24,7 +30,6 @@
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-<!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
@@ -34,10 +39,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusCouti}/count.svg" /></p> 
-<br></div>
-  
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+  
+<!--
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>-->
